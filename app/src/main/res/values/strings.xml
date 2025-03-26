@@ -1,0 +1,40 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">MoviesApp</string>
+
+    <!-- Search Screen -->
+    <string name="search_label">Search Movies</string>
+    <string name="search_hint">Enter movie</string>
+    <string name="search_button">Search</string>
+    <string name="no_results_found">No results found. Please try again.</string>
+    <string name="error_message">Error: Please check your internet connection and try again.</string>
+
+    <!-- Movie List -->
+    <string name="movie_title">Movie Title</string>
+    <string name="studio_label">Studio:</string>
+    <string name="rating_label">Rating:</string>
+    <string name="year_label">Year:</string>
+
+    <!-- Movie Details Screen -->
+    <string name="movie_details_title">Movie Details</string>
+    <string name="description_label">Description:</string>
+    <string name="poster_label">Poster:</string>
+
+    <!-- Error and Loading Messages -->
+    <string name="loading">Loading...</string>
+    <string name="retry_button">Retry</string>
+    <string name="back_button">Back</string>
+
+    <!-- Movie Detail Fields -->
+    <string name="imdb_rating">IMDb Rating:</string>
+    <string name="actors_label">Actors:</string>
+    <string name="director_label">Director:</string>
+    <string name="writer_label">Writer:</string>
+    <string name="runtime_label">Runtime:</string>
+    <string name="genre_label">Genre:</string>
+    <string name="language_label">Language:</string>
+    <string name="country_label">Country:</string>
+
+    <!-- Movie Placeholder for missing data -->
+    <string name="no_info_available">N/A</string>
+</resources>
